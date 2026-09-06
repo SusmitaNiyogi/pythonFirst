@@ -1,0 +1,3 @@
+x = "Susmita"
+print(x)
+print(type(x))

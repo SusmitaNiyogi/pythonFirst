@@ -1,0 +1,5 @@
+#Multiplication
+b = 10
+c = 20
+d = (b*c)
+print(d)
