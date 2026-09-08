@@ -1,3 +1,3 @@
-x = "Susmita"
+x = 7687576.01  
 print(x)
 print(type(x))
