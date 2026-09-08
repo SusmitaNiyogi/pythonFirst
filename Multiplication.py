@@ -1,5 +1,5 @@
 #Multiplication
-b = 10
-c = 20
+b = 30
+c = 40
 d = (b*c)
 print(d)
